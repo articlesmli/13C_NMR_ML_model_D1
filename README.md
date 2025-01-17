@@ -5,6 +5,6 @@
 - The last file 7.CID_SID_ML_model_D1.ijynb file is an additional ML model which use the PubChem CID and SID of compound to predict the porbability this compound to be as well a human dopamine D1 receptor antagonist
 
 The raw data used in the porject: 
-- PubChem AID 504652 - Antagonist of Human D 1 Dopamine Receptor: qHTS – PubChem. : https://pubchem.ncbi.nlm.nih.gov/bioassay/504652
+- PubChem AID 504652 - Antagonist of Human D 1 Dopamine Receptor: qHTS  https://pubchem.ncbi.nlm.nih.gov/bioassay/504652
 - PubChem AID 1996 - Aqueous Solubility from MLSMR Stock Solutions https://pubchem.ncbi.nlm.nih.gov/bioassay/1996
  
