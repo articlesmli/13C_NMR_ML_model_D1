@@ -1,0 +1,5 @@
+Assignment Delta Nb atoms
+ 24.8 1
+ 35.6 1
+ 182.7 1
+ 40.6 1
